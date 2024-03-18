@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 Here are some areas I dabble with:
 
 - 🔭 I’m currently working on an ETL library for educational purposes in data engineering.
-- 🌱 I’m currently learning my way into OSCP (Offensive Security Certification Program)
+- ⚡ Tinkering with building a task management tool for personal use.
+- 🌱 Studying and learning my way into OSCP (Offensive Security Cert) and CISSP
 - 👯 I’m looking to collaborate on ML and OSINT Tools.
-- 🤔 I’m looking for help with Chess? I'm learning Chess.
-- 💬 Ask me about Podcast world.
+- 💬 Ask me about Comedy world.
 - 📫 How to reach me: email.
