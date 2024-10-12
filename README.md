@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Here are some areas I dabble with:
 
-- 🔭 I’m currently working on an ETL library for educational purposes in data engineering.
+- 🔭 I’m currently working on a framework for long-term memory editing for LLMs, for educational purposes in data engineering.
 - ⚡ Tinkering with building a task management tool for personal use.
 - 🌱 Studying and learning my way into OSCP (Offensive Security Cert) and CISSP
-- 👯 I’m looking to collaborate on ML and OSINT Tools.
+- 👯 I’m looking to collaborate on ML and Cybersec and Program Synthesis Tools.
 - 💬 Ask me about Comedy world.
 - 📫 How to reach me: email.
