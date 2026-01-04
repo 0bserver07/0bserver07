@@ -1,27 +1,29 @@
-### Hi there 👋
+## Hey, I'm Yad
 
-<!--
-**0bserver07/0bserver07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML & Data Engineering leader. 2x Head of ML. I build agentic AI systems, data pipelines, and whatever else needs to exist.
 
-Here are some ideas to get you started:
+- Cofounded  [KayOS](https://kayos.ai) where I built 13 production AI platforms for enterprise clients.
+- Before that: Head of ML at NEAR Foundation (770M+ blockchain transactions), On Deck, and Roby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Into
 
-**0bserver07/0bserver07** is a ✨ indie researcher ✨ and this is where I stash my public code-bases.
+- **Coding Agents** – [Coding Agents Developer](https://codingagents.dev) coming soon.
+- **Agentic AI** – LLM workflows, RAG, multi-agent systems, MCP
+- **Program Synthesis** – [programsynthesis.pub](https://programsynthesis.pub)
+- **Reinforcement Learning** – curated 432 papers in [Study-Reinforcement-Learning](https://github.com/0bserver07/Study-Reinforcement-Learning)
+- **Comedy** – built [Library of Comedy](https://libraryofcomedy.com), the internet's largest standup database
 
-Here are some areas I dabble with:
+### Notable Repos
 
-- 🔭 I’m currently working on a framework for long-term memory editing for LLMs, for educational purposes in data engineering.
-- ⚡ Tinkering with building a task management tool for personal use.
-- 🌱 Studying and learning my way into OSCP (Offensive Security Cert) and CISSP
-- 👯 I’m looking to collaborate on ML and Cybersec and Program Synthesis Tools.
-- 💬 Ask me about Comedy world.
-- 📫 How to reach me: email.
+| Repo | Stars | What |
+|------|-------|------|
+| [One-Hundred-Layers-Tiramisu](https://github.com/0bserver07/One-Hundred-Layers-Tiramisu) | 198 | Semantic segmentation in TensorFlow |
+| [Study-Reinforcement-Learning](https://github.com/0bserver07/Study-Reinforcement-Learning) | 150+ | 432 papers on RL, RLHF, LLM alignment |
+| [Nvidia-Autopilot-Keras](https://github.com/0bserver07/Nvidia-Autopilot-Keras) | 95 | End-to-end self-driving model |
+
+### Links
+
+- [yad.codes](https://yad.codes) – technical writing
+- [yadkonrad.com](https://yadkonrad.com) – personal site
+- [programsynthesis.pub](https://programsynthesis.pub) – research
+- [@yadkonrad](https://twitter.com/yadkonrad) – Twitter
