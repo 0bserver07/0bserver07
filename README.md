@@ -8,7 +8,7 @@ ML & Data Engineering leader. 2x Head of ML. I build agentic AI systems, data pi
 ### What I'm Into
 
 - **Coding Agents** – [Coding Agents Dev](https://codingagents.dev) coming soon.
-- **Agentic AI** – LLM workflows, RAG, multi-agent systems, MCP
+- **Agent System and Environments** – LLM workflows, RAG, multi-agent systems, MCP, Sandboxes
 - **Program Synthesis** – [programsynthesis.pub](https://programsynthesis.pub)
 - **Reinforcement Learning** – curated 432 papers in [Study-Reinforcement-Learning](https://github.com/0bserver07/Study-Reinforcement-Learning)
 - **Comedy** – built [Library of Comedy](https://libraryofcomedy.com), the internet's largest standup database
