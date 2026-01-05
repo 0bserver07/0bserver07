@@ -2,8 +2,8 @@
 
 ML & Data Engineering leader. 2x Head of ML. I build agentic AI systems, data pipelines, and whatever else needs to exist.
 
-- Cofounded  [KayOS](https://kayos.ai) where I built 13 production AI platforms for enterprise clients.
-- Before that: Head of ML at NEAR Foundation (770M+ blockchain transactions), On Deck, and Roby.
+- Cofounder / CTO at [KayOS](https://kayos.ai) – Built 13 production AI platforms across legal tech, marketing analytics, and BI. Developed agent infrastructure (knowledge graphs, AI sandboxes, ETL frameworks) and a full AI coding IDE with ACP integration. 21k+ commits across 65 repos.
+- Foundation (770M+ blockchain transactions), Be On Deck, and Roby.
 
 ### What I'm Into
 
