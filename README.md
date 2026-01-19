@@ -7,7 +7,7 @@ ML & Data Engineering leader. 2x Head of ML. I build agentic AI systems, data pi
   
 ### What I'm Into
 
-- **Coding Agents** – [Coding Agents Dev](https://codingagents.dev) coming soon.
+- **Coding Agents** – [Coding Agents Dev](https://github.com/0bserver07/codingagents.dev) coming soon. A link aggregator and community for people interested in coding agents, built with a coding agent.
 - **Agent System and Environments** – LLM workflows, RAG, multi-agent systems, MCP, Sandboxes
 - **Program Synthesis** – [programsynthesis.pub](https://programsynthesis.pub)
 - **Reinforcement Learning** – curated 432 papers in [Study-Reinforcement-Learning](https://github.com/0bserver07/Study-Reinforcement-Learning)
