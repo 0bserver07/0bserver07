@@ -5,8 +5,8 @@ Hacking on new things for fun and learning. 2x CTO, Head of ML. I build agent dr
 ### Tinkering
 
 - [CodingAgents.Dev](https://github.com/0bserver07/codingagents.dev) – Link aggregator and community for people interested in coding agents, built with a coding agent
-- [Latest.CodingAgents.Dev](https://latest.codingagents.dev) – News and updates feed for coding agents
-- [CodingAgents.Academy](https://codingagents.academy) – Community and learning hub
+- [AgenticEngineer.ING](https://agenticengineer.ing) – Solo journey to become an agent-driven engineer through interactive lessons across any domain
+- [Erdos Navigator](https://github.com/0bserver07/erdos-navigator) – Agent navigator that turns Claude Code into a theorem assistant prover
 - [yad.codes](https://yad.codes) – Technical blog and digital garden
 
 ### Background
@@ -21,14 +21,6 @@ Hacking on new things for fun and learning. 2x CTO, Head of ML. I build agent dr
 - **RL and Neuroscience** – curated 432 papers in [Study-Reinforcement-Learning](https://github.com/0bserver07/Study-Reinforcement-Learning)
 - **Comedy and Creative Writing** – built [Library of Comedy](https://libraryofcomedy.com), the internet's largest standup database
 - **Autodidacticism and Superlearning**
-
-### Notable Repos
-
-| Repo | Stars | What |
-|------|-------|------|
-| [One-Hundred-Layers-Tiramisu](https://github.com/0bserver07/One-Hundred-Layers-Tiramisu) | 198 | Semantic segmentation in TensorFlow |
-| [Study-Reinforcement-Learning](https://github.com/0bserver07/Study-Reinforcement-Learning) | 150+ | 432 papers on RL, RLHF, LLM alignment |
-| [Nvidia-Autopilot-Keras](https://github.com/0bserver07/Nvidia-Autopilot-Keras) | 95 | End-to-end self-driving model |
 
 ### Links
 
