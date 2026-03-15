@@ -4,14 +4,15 @@ Hacking on new things for fun and learning. I build agent driven systems, data p
 
 ### Tinkering
 
+- 🔬 [SutroYaro](https://github.com/cybertronai/SutroYaro) – Agent-driven research lab for energy-efficient AI training with the Sutro Group
 - 🧮 [Bourbaki](https://github.com/0bserver07/bourbaki) – Autonomous agent for mathematical reasoning and proof
 - 🧭 [Erdos Navigator](https://github.com/0bserver07/erdos-navigator) – Agent navigator that turns Claude Code into a theorem proving assistant
 - 🎓 [AgenticEngineer.ING](https://agenticengineer.ing) – Interactive lessons to become an agent-driven engineer across any domain
 - 🍄 [Mycelium Theme](https://github.com/0bserver07/mycelium-theme) – Digital garden, Obsidian workflow, and blog in one
+- 📡 [StackUnderflow](https://github.com/0bserver07/StackUnderflow) – Local observability for your coding agents – search, replay, and analyse every session offline. Starts with Claude Code
 - ✍️ [yad.codes](https://yad.codes) – Technical blog and digital garden
 - 🚀 Novalis ⏳ – AI-native terminal built with Tauri and xterm.js
 - 🗄️ MCPantry ⏳ – Desktop app to manage MCP servers, skills, plugins, and agent configs across your AI tools
-- 📡 StackUnderflow ⏳ – Local Q&A forum and analytics for your Claude Code agent sessions
 - 🌐 CodingAgents.Dev ⏳ – Link aggregator and community for coding agents
 - 🎮 Claude Code Games 101 ⏳ – Learn Claude Code by building games
 
