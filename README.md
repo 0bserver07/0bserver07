@@ -4,6 +4,7 @@ Hacking on new things for fun and learning. I build agent driven systems, data p
 
 ### Tinkering
 
+- 🔬 [SutroYaro](https://github.com/cybertronai/SutroYaro) – Agent-driven research lab for energy-efficient AI training with the Sutro Group
 - 🧮 [Bourbaki](https://github.com/0bserver07/bourbaki) – Autonomous agent for mathematical reasoning and proof
 - 🧭 [Erdos Navigator](https://github.com/0bserver07/erdos-navigator) – Agent navigator that turns Claude Code into a theorem proving assistant
 - 🎓 [AgenticEngineer.ING](https://agenticengineer.ing) – Interactive lessons to become an agent-driven engineer across any domain
